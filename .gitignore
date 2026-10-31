@@ -7,21 +7,3 @@ __pycache__/
 venv/
 .venv/
 env/
-
-# Environment variables and secrets
-.env
-
-# IDE settings
-.vscode/
-
-# Database files (optional)
-# *.db
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Model files (if large)
-# *.h5
-# *.keras
-# *.pt
-# *.pth
